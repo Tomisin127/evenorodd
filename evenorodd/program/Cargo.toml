@@ -1,0 +1,9 @@
+[workspace]
+members = ["src/even_odd_lib"]
+[package]
+version = "0.1.0"
+name = "evenorodd"
+edition = "2021"
+
+[dependencies]
+sp1-zkvm = "4.0.0"
